@@ -1,4 +1,4 @@
-### trohit920-Image-Segmentation-Training-and-Testing
+### Image-Segmentation-Training-and-Testing
 
 Requirements (all can be eaisly installed using pip or conda):
 	1. keras==2.3.1
